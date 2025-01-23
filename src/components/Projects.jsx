@@ -77,7 +77,7 @@ const Projects = () => {
       description: "A professional and responsive portfolio website showcasing my projects, skills, and certifications with a modern design.",
       images: [Portfolio1, Portfolio2, Portfolio3],
       WebLink: "/",
-      GitLink: "",
+      GitLink: "https://github.com/mayanksagar1/portfolio.git",
       technologies: [
         {
           imgSrc: ReactJs,
