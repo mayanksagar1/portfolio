@@ -26,7 +26,7 @@ const Hero = () => {
           <circle cx="12" cy="13" r="2" />
         </svg>
       ),
-      href: "https://drive.google.com/file/d/1rAqcHvu4t6TdeaySNLwiaY0DkVYPAPAb/view?usp=sharing",
+      href: "https://drive.google.com/file/d/1K7V0RkEbVhodjtgcRzxO1F03le9E-bVu/view?usp=sharing",
       label: "Resume",
     },
   ];
